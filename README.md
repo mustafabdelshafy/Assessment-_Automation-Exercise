@@ -66,19 +66,29 @@ Soft Assertions ->	Flexible validation
 
 🔁 Data Driven Testing
 Instead of hard-coded data, user data is generated dynamically using the TestDataGenerator utility:
+
 String firstName = TestDataGenerator.generateFirstName();
+
 String email = TestDataGenerator.generateEmail();
+
 String password = TestDataGenerator.generatePassword();
+
 ▶️ How to Run the Tests
+
 Clone the repository
 
 Make sure all dependencies are resolved (Maven/Gradle)
 
 Update automationexercise.properties with correct URLs:
+
 baseURL=https://automationexercise.com/
+
 CreatedURL=https://automationexercise.com/account_created
+
 homeURL=https://automationexercise.com/
+
 loginURL=https://automationexercise.com/login
+
 browserType=chrome
 
 Run using TestNG XML file:
