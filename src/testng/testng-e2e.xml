@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Afaqy E2E Test Suite - Signup Flow">
+    <listeners>
+        <listener class-name="org.afaqy.listeners.TestNGListeners"/>
+    </listeners>
+
+    <test name="Afaqy E2E Signup Tests">
+        <classes>
+            <class name="com.afaqy.tests.E2e">
+                <methods>
+                    <include name="signupTest"/>
+                    <include name="createdAccount"/>
+                    <include name="logout"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
