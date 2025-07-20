@@ -115,6 +115,8 @@ testng/testng-e2e.xml
 </suite>
 
  Reports
-This project optionally supports:
+This project supports:
+
 Allure Reports
+
 Screenshot on failure
