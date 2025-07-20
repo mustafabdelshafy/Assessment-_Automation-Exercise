@@ -1,6 +1,6 @@
 📋 Automated Sign-Up Test – Automation Exercise
 ✅ Objective
-This project automates the sign-up process on Automation Exercise using:
+This project automates the sign-up process on the Automation Exercise using:
 
 Java + Selenium WebDriver
 
