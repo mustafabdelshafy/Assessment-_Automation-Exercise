@@ -30,7 +30,7 @@ The test validates user registration with dynamic data:
 
 Navigate to https://automationexercise.com/
 
-Click Signup/Login
+Click Signup
 
 Fill all registration fields with randomly generated test data
 
