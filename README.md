@@ -49,12 +49,19 @@ Verify the user is redirected to the login page
 📦 Tech Stack
 Tool/Library	Purpose
 Java	-> Programming Language
+
 Selenium WebDriver ->	UI Automation
+
 TestNG	->   Test Management
+
 POM	 -> Page Object Pattern
+
 Random Data -> Utils	Dynamic test data
+
 Allure -> Reporting
+
 Log4j	-> Logging
+
 Soft Assertions ->	Flexible validation
 
 🔁 Data Driven Testing
